@@ -22,6 +22,7 @@ A simple clock screensaver for macOS written entirely in Swift. It has support f
 
 - Download the [latest version](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/releases/latest) of the screensaver from the releases page.
 - Extract the ZIP file by double-clicking on it.
+
 - Install the screensaver by double-clicking on the file with the extension `.saver`.
 
 ## Credits
@@ -31,3 +32,10 @@ A simple clock screensaver for macOS written entirely in Swift. It has support f
 ## License
 
 This project is open source licensed under the BSD 3-Clause License. Please see the [LICENSE file](LICENSE) for more information.
+
+
+BB:
+also check out this for designs and more ideas tof customization.
+https://bauhausclock.com/
+
+their webpage downloaded in a bauhausClock folder
